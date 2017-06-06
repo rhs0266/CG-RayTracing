@@ -1,0 +1,40 @@
+﻿  Main.cpp
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(18): warning C4091: 'typedef ': ignored on left of 'obj_face' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(27): warning C4091: 'typedef ': ignored on left of 'obj_sphere' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(36): warning C4091: 'typedef ': ignored on left of 'obj_plane' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(41): warning C4091: 'typedef ': ignored on left of 'obj_vector' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(56): warning C4091: 'typedef ': ignored on left of 'obj_material' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(63): warning C4091: 'typedef ': ignored on left of 'obj_camera' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(69): warning C4091: 'typedef ': ignored on left of 'obj_light_point' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(76): warning C4091: 'typedef ': ignored on left of 'obj_light_disc' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(82): warning C4091: 'typedef ': ignored on left of 'obj_light_quad' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(105): warning C4091: 'typedef ': ignored on left of 'obj_growable_scene_data' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\obj_parser.h(138): warning C4091: 'typedef ': ignored on left of 'obj_scene_data' when no variable is declared
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(45): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(58): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(62): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(64): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(73): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(75): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(80): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(133): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(138): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(201): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(209): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(255): warning C4018: '<': signed/unsigned mismatch
+d:\서울대학교\2016-1\cg\raytracing\raytracing\rhs_polygonset.h(303): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(44): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Main.cpp(85): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(106): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Main.cpp(107): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Main.cpp(134): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(255): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(404): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(418): warning C4244: '=': conversion from 'float' to 'ebmpBYTE', possible loss of data
+Main.cpp(419): warning C4244: '=': conversion from 'float' to 'ebmpBYTE', possible loss of data
+Main.cpp(420): warning C4244: '=': conversion from 'float' to 'ebmpBYTE', possible loss of data
+Main.cpp(423): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Main.cpp(424): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Main.cpp(425): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
